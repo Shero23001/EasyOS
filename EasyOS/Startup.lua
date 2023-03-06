@@ -1,5 +1,0 @@
-print("Welcome to EasyOS")
-print("Loading...")
-textutils.slowPrint("###################################################")
-sleep(1)
-shell.run("OS/.menu")
